@@ -11,7 +11,7 @@ va shu sonni 2 ga bo'lib: ${secondResult} sonini chiqardik,
 va shu sonni 3 ga bo'lgandagi qoldik: ${thirdResult} sonini chiqardik.
 `)
 
-console.log(`Random orqali chiqqan son: ${random} Random orqali chiqqan son: ${random} edi,
+console.log(`Random orqali chiqqan son: ${random} edi,
 biz uni 2 ga ko'paytirib ${result} sonini chiqardik, 
 va shu sonni 2 ga bo'lib: ${secondResult} sonini chiqardik, 
 va shu sonni 3 ga bo'lgandagi qoldik: ${thirdResult} sonini chiqardik.
